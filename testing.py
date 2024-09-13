@@ -1,1 +1,1 @@
-print ("hello kadam ,football for life")
+print ("hello, football for life")
